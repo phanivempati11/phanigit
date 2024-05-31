@@ -11,5 +11,5 @@ M nnfGIT HUB INSTALLATIO
 10, git add -A (to add all files at a time)
 11, git branch name (to create a new branch)
 12, git checkout name (to switch the branch)
-13, git branch (to check available branches)
+
 
